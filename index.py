@@ -22,7 +22,7 @@ st.markdown(
 
 # IMPORTANDO A TABELA CSV COM OS DADOS
 
-df = pd.read_csv(r'C:/Users/MariaJuliadoPradoFer/Desktop/Python/vendas_python/vendas_2023.csv')
+df = pd.read_csv(r'vendas_python/vendas_2023.csv')
 
 # TITULO DA PÁGINA
 st.title('Vendas 2023')
